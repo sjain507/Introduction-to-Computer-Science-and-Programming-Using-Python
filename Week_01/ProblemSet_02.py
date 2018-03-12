@@ -2,7 +2,7 @@
 Assume s is a string of lower case characters.
 Write a program that prints the number of times the string 'bob' occurs in s
 """
-s = 'azcbobobegghakl'
+#s = 'azcbobobegghakl'
 lengthofs = len(s)
 stringToFind = 'bob'
 count = 0
